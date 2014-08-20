@@ -1,7 +1,7 @@
 Weight Lifting Exercise Analysis Project
 ========================================
 
-The repository includes the following files:
+This repository includes the following files:
 
 * [README.md](README.md) - This document you are reading.
 * [pml_analysis.Rmd](pml_analysis.Rmd) R Markdown file describing analysis and showing R code.
